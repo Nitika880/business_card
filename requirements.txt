@@ -1,0 +1,15 @@
+asgiref==3.5.0
+backports.zoneinfo==0.2.1
+colorama==0.4.4
+Django==4.0.3
+djangorestframework==3.13.1
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==5.1.0
+Pillow==9.0.1
+psycopg2==2.9.3
+PyJWT==1.7.1
+PyQRCode==1.2.1
+pytz==2022.1
+qrcode==7.3.1
+sqlparse==0.4.2
+tzdata==2022.1
